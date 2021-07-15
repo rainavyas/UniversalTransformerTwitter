@@ -26,7 +26,7 @@ Fork the repository (and clone).
 
 Run the _train.py_ scripts with desired arguments in your terminal. For example to train a universal transformer (UT) encoder with 12 layers:
 
-_python ./train.py classifier.th --B=8 --lr=0.00001 --epochs=5 --layers=12_
+_python ./train.py classifier12.th --B=8 --lr=0.00001 --epochs=5 --layers=12_
 
 # Experimental Results
 
