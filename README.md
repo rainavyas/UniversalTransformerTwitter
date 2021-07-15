@@ -1,5 +1,5 @@
 # UniversalTransformerTwitter
-Twitter Emotion Classifier using a Universal Transformer
+Twitter Emotion Classifier using a Universal Transformer. In this implementation of the Universal Transformer the encoder of a Transformer is used, but all the layers are forced to have identical weights. This allows for a variable number of layers in the encoder architecture.
 
 # Objective
 
